@@ -224,6 +224,7 @@ logoLink.style.height = '20px'
 var logoImg = document.createElement('img')
 logoImg.src = logoSrc
 logoImg.style.marginLeft = '20px'
+logoImg.style.filter = 'invert(1)'
 
 logoImg.alt = ''
 logoLink.appendChild(logoImg)
