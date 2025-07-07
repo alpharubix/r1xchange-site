@@ -882,7 +882,7 @@ var careerSection = [
     TitleName: 'Career',
     SubtitleName:
       'COME, JOIN R1Xchange TO LAUNCH THE SUCCESS STORY OF YOUR CAREER AND PROFESSIONAL GROWTH. Please email your resume at',
-    EmailAddress: 'hr01@r1xchange.com',
+    EmailAddress: 'hr@r1xchange.com',
     PlanOfAction: 'https://zfrmz.com/3DDBhNq05jtGAveCO1Hm',
   },
 ]
@@ -967,7 +967,7 @@ var ctaData = {
   TitleName:
     'Your working capital and finance solution is right around the corner. Call us today !',
   SubtitleName: 'Call us, we will get back to you soon.',
-  phoneNumber: '080 69558216',
+  phoneNumber: '+91 9364111656',
   BackgroundImage: './assets/img/cta-bg.jpg',
 }
 var img = document.getElementById('callactionbg')
@@ -975,7 +975,7 @@ img.setAttribute('src', ctaData.BackgroundImage)
 document.getElementById('ctaContentContainer').innerHTML = `
   <h3>${ctaData.TitleName}</h3>
   <p>${ctaData.SubtitleName}</p>
-  <a class="cta-btn" href="tel:08046810303"> <span class="phone-icon">&#x1F4DE;</span>${ctaData.phoneNumber}</a>
+  <a class="cta-btn" href="tel:9364111656"> <span class="phone-icon">&#x1F4DE;</span>${ctaData.phoneNumber}</a>
 `
 /*<-- end ======= Call-to-Action Section ======= -->*/
 
@@ -1078,8 +1078,8 @@ var contactSections = [
     addressLine1:
       'Hosur Rd, Kudlu Gate, Srinivasa Nagar, Hal Layout, Singasandra,',
     addressLine2: 'Bengaluru, Karnataka-560068',
-    phoneNumber: '080 69558216',
-    emailAddress: 'supportmgr@r1xchange.com',
+    phoneNumber: '+91 9364111656',
+    emailAddress: 'support@r1xchange.com',
     contactus: 'For Queries related to our Products and Services, ',
     PlanOfAction: 'https://zfrmz.com/NUB9bXeP5vWH6Cx8MjSK',
     hoursLine1: 'Mon - Fri : 10:00 AM - 6:00 PM',
@@ -1239,8 +1239,8 @@ var footerData = {
       'Hosur Rd, Kudlu Gate, Srinivasa Nagar, Hal Layout, Singasandra,',
       'Bengaluru, Karnataka-560068',
     ],
-    phone: '080 69558216',
-    email: 'supportmgr@r1xchange.com',
+    phone: '+91 9364111656',
+    email: 'support@r1xchange.com',
   },
 }
 // Function to create a list of links
