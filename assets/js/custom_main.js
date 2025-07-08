@@ -238,7 +238,7 @@ document
 /*<-- start ======= About Us ======= -->*/
 var aboutUsData = {
   TitleName: 'About Us',
-  SubtitleName: 'Who we Are:',
+  SubtitleName: 'Who We Are:',
   PlanOfAction: '#contact',
   aboutUsDescription:
     'R1Xchange is a leading banking finance and technology company with more than 10 years of experience in the Banking Lending Business.',
