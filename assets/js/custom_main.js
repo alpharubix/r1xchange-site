@@ -241,7 +241,7 @@ var aboutUsData = {
   SubtitleName: 'Who We Are:',
   PlanOfAction: '#contact',
   aboutUsDescription:
-    'R1Xchange is a leading banking finance and technology company with more than 10 years of experience in the Banking Lending Business.',
+    'R1XChange is a leading banking finance and technology company with more than 10 years of experience in the Banking Lending Business.',
   additionalInfo:
     'Additionally, pre underwrite your financial and tax documents and enable you to get access to the right set of lenders offering you the cheapest and easiest credit solutions to suit all your personal and business requirements.',
   iconBoxes: [
@@ -249,7 +249,7 @@ var aboutUsData = {
       iconClass: 'bi bi-cash-coin',
       title: 'How we matter?',
       description:
-        'Here at R1Xchange we want to make sure that all key business loan offerings and working capital products from across banks are available under a single roof with a click of a button, so that you can focus on the most important aspect of running your business while we help you manage your banking financials.',
+        'Here at R1XChange we want to make sure that all key business loan offerings and working capital products from across banks are available under a single roof with a click of a button, so that you can focus on the most important aspect of running your business while we help you manage your banking financials.',
     },
     {
       iconClass: 'bi bi-person-lines-fill',
@@ -312,7 +312,7 @@ var statsData = {
   TitleName: 'How are we Unique?',
   SubtitleName: 'Our Moat',
   Description:
-    'R1Xchange is a leading banking finance and technology company that will pre underwrite your financial and tax documents and enable you to get access to the right set of lenders offering you the cheapest and easiest credit solutions to suit all your personal and business requirements, we have a whole host of financial and banking products to suit every single business ranging from supply chain finance, overdraft lines, business term loans, inventory finance and revenue based funding.',
+    'R1XChange is a leading banking finance and technology company that will pre underwrite your financial and tax documents and enable you to get access to the right set of lenders offering you the cheapest and easiest credit solutions to suit all your personal and business requirements, we have a whole host of financial and banking products to suit every single business ranging from supply chain finance, overdraft lines, business term loans, inventory finance and revenue based funding.',
   BackgroundImage: './assets/img/stats-bg.jpg',
   ListItems: [
     'Deep banking expertise & Financial guidance',
@@ -411,7 +411,7 @@ var servicesData = [
   {
     title: 'Working Capital Loan',
     content:
-      "Working capital loans help businesses manage their day-to-day operations by providing them with the necessary funds to cover their short-term operations expenses, such as purchasing inventory, managing accounts payable, and meeting other operational costs.<br><br> Businesses can avail various types of working capital loans, such as cash credit, overdraft facility,trade credit, working capital term loans, and bank guarantees. Banks and Lenders provide working capital loans based on factors such as the business's creditworthiness, financial stability, repayment capacity, business plan, and collateral. <br><br>At R1Xchange, we help structure your various working capital needs with the right offering of financing solutions from whole host of lenders post careful understanding and analysis of your business.",
+      "Working capital loans help businesses manage their day-to-day operations by providing them with the necessary funds to cover their short-term operations expenses, such as purchasing inventory, managing accounts payable, and meeting other operational costs.<br><br> Businesses can avail various types of working capital loans, such as cash credit, overdraft facility,trade credit, working capital term loans, and bank guarantees. Banks and Lenders provide working capital loans based on factors such as the business's creditworthiness, financial stability, repayment capacity, business plan, and collateral. <br><br>At R1XChange, we help structure your various working capital needs with the right offering of financing solutions from whole host of lenders post careful understanding and analysis of your business.",
     image:
       './assets/img/services-features/WORKING_CAPITAL_LOAN_FACTORY_WORKERS.jpeg',
     order: 'imageFirst',
@@ -420,7 +420,7 @@ var servicesData = [
   {
     title: 'MSME Loan',
     content:
-      'To support the Micro, Small, and Medium Enterprises (MSME) sector, Govt. actively promotes and provides financial support through various initiatives and schemes aimed at providing financial assistance and support. <br><br>The government periodically announces interest subvention schemes to provide financial support MSMEs by offering interest subsidies on loans, thus reducing the overall cost of borrowing for the enterprises.<br><br>Here at R1Xchange, we work with various agencies and Lenders to help you avail the schemes and benefits aimed at enabling MSMEs and businesses to get access to easy and affordable credit.',
+      'To support the Micro, Small, and Medium Enterprises (MSME) sector, Govt. actively promotes and provides financial support through various initiatives and schemes aimed at providing financial assistance and support. <br><br>The government periodically announces interest subvention schemes to provide financial support MSMEs by offering interest subsidies on loans, thus reducing the overall cost of borrowing for the enterprises.<br><br>Here at R1XChange, we work with various agencies and Lenders to help you avail the schemes and benefits aimed at enabling MSMEs and businesses to get access to easy and affordable credit.',
     image: './assets/img/services-features/MSME_SAMPLE_TAILOR_DRESSMACHINE.jpg',
     order: 'contentFirst',
     icon: 'bi bi-aspect-ratio',
@@ -510,7 +510,7 @@ var featuresInfo = {
   TitleName: 'TYPES OF LOAN PRODUCTS',
   SubtitleName: 'All of Banking under a single roof',
   Description:
-    'Here at R1Xchange we enable you to get access to the right set of lenders offering you the cheapest and easiest credit solutions to suit all your personal and business requirements, we have a whole host of financial and banking products to suit every single business ranging from supply chain finance, overdraft lines, business term loans, inventory finance and revenue based funding, everything under one single roof',
+    'Here at R1XChange we enable you to get access to the right set of lenders offering you the cheapest and easiest credit solutions to suit all your personal and business requirements, we have a whole host of financial and banking products to suit every single business ranging from supply chain finance, overdraft lines, business term loans, inventory finance and revenue based funding, everything under one single roof',
 }
 
 var featuresData = [
@@ -519,7 +519,7 @@ var featuresData = [
     title: 'Home Loans',
     subtitle: 'Secured HL',
     content:
-      "Housing loans, also known as home loans, are financial products offered by various banks and financial institutions to help individuals purchase or construct a house. The terms and conditions, as well as the interest rates, for housing loans can vary depending on the financial institution and the current market conditions. Some factors that may influence housing loan interest rates include the Reserve Bank of India's monetary policy, inflation rates, and the overall economic situation.<br><br>At R1Xchange, we understand that Building a home as said is a dream come true for many, we can help you build your dream home and also refinance it as working capital for your business at the most competitive rate of interest.",
+      "Housing loans, also known as home loans, are financial products offered by various banks and financial institutions to help individuals purchase or construct a house. The terms and conditions, as well as the interest rates, for housing loans can vary depending on the financial institution and the current market conditions. Some factors that may influence housing loan interest rates include the Reserve Bank of India's monetary policy, inflation rates, and the overall economic situation.<br><br>At R1XChange, we understand that Building a home as said is a dream come true for many, we can help you build your dream home and also refinance it as working capital for your business at the most competitive rate of interest.",
     image: '',
     secondImage:
       './assets/img/services-features/HOME_LOAN_COUPLE_POSING PICC.jpg',
@@ -530,7 +530,7 @@ var featuresData = [
     title: 'Business Loans / B2B Lending',
     subtitle: 'Unsecured BL',
     content:
-      "Unsecured Business Loan is a loan given for business purposes where the business does not have to pledge any collateral or security to the Lender in order to avail the loan. Repayment of the loan can be done through Equated Monthly Installments or EMIs as is commonly known.<br><br>We ,at R1Xchange, adopt a thorough evaluation process taking into account various factors to ensure that the loan meets the company's needs and is sustainable. Essentially, we identify the purpose of the loan and work towards determining the loan amount post evaluating the creditworthiness through a close review of various data points",
+      "Unsecured Business Loan is a loan given for business purposes where the business does not have to pledge any collateral or security to the Lender in order to avail the loan. Repayment of the loan can be done through Equated Monthly Installments or EMIs as is commonly known.<br><br>We ,at R1XChange, adopt a thorough evaluation process taking into account various factors to ensure that the loan meets the company's needs and is sustainable. Essentially, we identify the purpose of the loan and work towards determining the loan amount post evaluating the creditworthiness through a close review of various data points",
     image: './assets/img/services-features/B2B_LENDING_BIZZ_LOAN.jpg',
     secondImage: 'assets/img/second-image.jpg',
     buttonId: 'unsecuredhl',
@@ -540,7 +540,7 @@ var featuresData = [
     title: 'AutoMobile Loan',
     subtitle: 'Vehicle Loan',
     content:
-      "Automobile loans are a type of secured loan specifically designed to help individuals purchase vehicles. Also known as auto loans or car loans, these loans typically provide borrowers with the necessary funds to buy a car or 4 wheeler, and the vehicle itself serves as collateral for the loan. The terms and conditions, including the interest rates, repayment schedules, and loan amounts, can vary depending on the lender and the borrower's creditworthiness.<br><br>At R1Xchange, we work with you to understand various factors to ensure that the automobile financing aligns with the company's needs and also ensures in enhancing financial capabilities to bring in efficient service and foster growth. In addition to this , we compare interest rate and loan terms to find the best lender available in your region to ensure convenience and positive business impact.",
+      "Automobile loans are a type of secured loan specifically designed to help individuals purchase vehicles. Also known as auto loans or car loans, these loans typically provide borrowers with the necessary funds to buy a car or 4 wheeler, and the vehicle itself serves as collateral for the loan. The terms and conditions, including the interest rates, repayment schedules, and loan amounts, can vary depending on the lender and the borrower's creditworthiness.<br><br>At R1XChange, we work with you to understand various factors to ensure that the automobile financing aligns with the company's needs and also ensures in enhancing financial capabilities to bring in efficient service and foster growth. In addition to this , we compare interest rate and loan terms to find the best lender available in your region to ensure convenience and positive business impact.",
     image: '',
     secondImage:
       './assets/img/services-features/AUTOMOBILE_LOAN_CHILD_CAR1.jpg',
@@ -551,7 +551,7 @@ var featuresData = [
     title: 'Supply Chain Finance',
     subtitle: '',
     content:
-      "Supply chain finance, also known as supplier finance or reverse factoring, is a set of solutions that optimizes cash flow by allowing businesses to lengthen their payment terms to their suppliers while  providing the option for their large and SME suppliers to get paid early.<br><br>In recent years, the Indian government has taken initiatives to promote supply chain finance, recognizing its potential to strengthen the country's manufacturing and supply chain capabilities.<br><br>At R1Xchange, we allow companies to strengthen their supply chain and supply distribution by providing liquidity to their suppliers, at a lower cost of capital, based on their credit rating. By enabling businesses to access finance at lower interest rates and providing an avenue for small and medium-sized enterprises (SMEs) we help improve their cash flow and plan their financial resource allocation efficiently. With the digitization of financial services and our large network of Lenders , we offer our clients a diverse set of solutions at the best and competitive rates to enhance and grow their business finance.",
+      "Supply chain finance, also known as supplier finance or reverse factoring, is a set of solutions that optimizes cash flow by allowing businesses to lengthen their payment terms to their suppliers while  providing the option for their large and SME suppliers to get paid early.<br><br>In recent years, the Indian government has taken initiatives to promote supply chain finance, recognizing its potential to strengthen the country's manufacturing and supply chain capabilities.<br><br>At R1XChange, we allow companies to strengthen their supply chain and supply distribution by providing liquidity to their suppliers, at a lower cost of capital, based on their credit rating. By enabling businesses to access finance at lower interest rates and providing an avenue for small and medium-sized enterprises (SMEs) we help improve their cash flow and plan their financial resource allocation efficiently. With the digitization of financial services and our large network of Lenders , we offer our clients a diverse set of solutions at the best and competitive rates to enhance and grow their business finance.",
     image: './assets/img/services-features/SUPPLY_CHAINMEN_SHADOW.jpg',
     buttonId: 'supplychain',
   },
@@ -560,7 +560,7 @@ var featuresData = [
     title: 'Mudra Loan',
     subtitle: '',
     content:
-      "Mudra' stands for Micro Units Development and Refinance Agency. These loans were designed to aid the growth and development of small businesses in sectors such as trading, manufacturing, and services. Mudra Loans, an initiative by the Government of India, were introduced to provide financial support to small and micro enterprises.Here are some key features of Mudra Loans in India:<br> > Shishu: For businesses in the initial stages, offering loans up to ₹50,000.<br> > Kishore: For businesses that have expanded and require higher loan amounts, offering loans ranging from ₹50,000 to ₹5 lakhs.<br> > Tarun: For established businesses looking for further expansion, offering loans ranging from ₹5 lakhs to ₹10 lakhs.<br><br>At R1Xchange, we help businesses clearly understand the purpose of the MUDRA loan and how to avail the same through our network of lenders. Apart from counseling , our team of financial experts work with businesses to avail this govt. promoted scheme, whether it's for working capital, purchasing equipment, or any other business need, in aligning the loan with the company's goals.",
+      "Mudra' stands for Micro Units Development and Refinance Agency. These loans were designed to aid the growth and development of small businesses in sectors such as trading, manufacturing, and services. Mudra Loans, an initiative by the Government of India, were introduced to provide financial support to small and micro enterprises.Here are some key features of Mudra Loans in India:<br> > Shishu: For businesses in the initial stages, offering loans up to ₹50,000.<br> > Kishore: For businesses that have expanded and require higher loan amounts, offering loans ranging from ₹50,000 to ₹5 lakhs.<br> > Tarun: For established businesses looking for further expansion, offering loans ranging from ₹5 lakhs to ₹10 lakhs.<br><br>At R1XChange, we help businesses clearly understand the purpose of the MUDRA loan and how to avail the same through our network of lenders. Apart from counseling , our team of financial experts work with businesses to avail this govt. promoted scheme, whether it's for working capital, purchasing equipment, or any other business need, in aligning the loan with the company's goals.",
     secondImage: './assets/img/services-features/MUDRA_LOAN _LADY_MOBILE.jpg',
     buttonId: 'mudraloan',
   },
@@ -569,7 +569,7 @@ var featuresData = [
     title: 'Loan Against Property',
     subtitle: '',
     content:
-      'Loan Against Property (LAP) is a type of secured loan that allows individuals to borrow funds by leveraging their residential or commercial property as collateral. In India, various banks, non-banking financial companies (NBFCs), and financial institutions offer Loan Against Property with attractive interest rates and flexible repayment options. LAP is a great option for people who require a large amount of money but need more assets to pledge as collateral.<br><br>At R1Xchange, we advise borrowers not only on the benefits of using a LAP loan but we also help in assessing the market value of the property, since it would have a direct impact on the loan amount you can qualify for .We help individuals and businesses who require a large amount of money or looking for financial debt consolidation and have more assets to pledge as collateral',
+      'Loan Against Property (LAP) is a type of secured loan that allows individuals to borrow funds by leveraging their residential or commercial property as collateral. In India, various banks, non-banking financial companies (NBFCs), and financial institutions offer Loan Against Property with attractive interest rates and flexible repayment options. LAP is a great option for people who require a large amount of money but need more assets to pledge as collateral.<br><br>At R1XChange, we advise borrowers not only on the benefits of using a LAP loan but we also help in assessing the market value of the property, since it would have a direct impact on the loan amount you can qualify for .We help individuals and businesses who require a large amount of money or looking for financial debt consolidation and have more assets to pledge as collateral',
     image: './assets/img/services-features/LOAN_AGNST PROPERTY_LOAN.jpg',
     buttonId: 'loanproperty',
   },
@@ -578,7 +578,7 @@ var featuresData = [
     title: 'Credit Guarantee Fund Scheme for Micro and Small Enterprises',
     subtitle: 'CGTMSE',
     content:
-      'This CGTMSE scheme is designed by govt. of India to provide collateral-free credit to micro and small enterprises upto 500 lakhs. At R1Xchange, we help both new and existing MSME units to avail loans without any collateral or secuity requirement under CGTMSE scheme through our large network of Lenders. ',
+      'This CGTMSE scheme is designed by govt. of India to provide collateral-free credit to micro and small enterprises upto 500 lakhs. At R1XChange, we help both new and existing MSME units to avail loans without any collateral or secuity requirement under CGTMSE scheme through our large network of Lenders. ',
     secondImage:
       './assets/img/services-features/CGTMSE_LOAN _SURD_BIZZPHOTO.jpg ',
     buttonId: 'cgtmse',
@@ -588,7 +588,7 @@ var featuresData = [
     title: 'Overdraft',
     subtitle: '',
     content:
-      'Overdraft facility for businesses is a financial service provided by banks that allows businesses to withdraw more money from their current account than they actually have in it ,up to a certain limit.This facility helps businesses to manage any unforeseen short term financial crises or cash flow gaps.<br><br>This facility is particularly useful for businesses that experience seasonal fluctuations in their cash flows or have occasional short-term funds requirements.<br><br>Our team of financial experts at R1Xchange helps businesses to manage any unforeseen short term financial crises or cash flow gaps through customized and regular overdraft facilities. We work with businesses to assess their eligibility in terms of their credit history , financial stability and other relevant factors so that they can leverage their overdraft facilities to the maximum amount possible. With our large network of banks and Lenders across India , we provide businesses the facility to explore multiple funding options and leverage their business potential to maximize growth.',
+      'Overdraft facility for businesses is a financial service provided by banks that allows businesses to withdraw more money from their current account than they actually have in it ,up to a certain limit.This facility helps businesses to manage any unforeseen short term financial crises or cash flow gaps.<br><br>This facility is particularly useful for businesses that experience seasonal fluctuations in their cash flows or have occasional short-term funds requirements.<br><br>Our team of financial experts at R1XChange helps businesses to manage any unforeseen short term financial crises or cash flow gaps through customized and regular overdraft facilities. We work with businesses to assess their eligibility in terms of their credit history , financial stability and other relevant factors so that they can leverage their overdraft facilities to the maximum amount possible. With our large network of banks and Lenders across India , we provide businesses the facility to explore multiple funding options and leverage their business potential to maximize growth.',
     image: './assets/img/services-features/OVERDRAFT_LOAN.jpg',
     buttonId: 'overdraft',
   },
@@ -597,7 +597,7 @@ var featuresData = [
     title: 'Term Loan',
     subtitle: '',
     content:
-      'A term loan refers to a Bank loan for a specific amount that has a specified repayment schedule and a fixed or reducing rate of interest.<br><br>We at R1Xchange , help businesses who are looking for business expansion, meet capital expenditure, or other long-term financing needs with these loans. Apart from helping businesses get access to term loans we also help them in understanding and planning the repayment period for term loan which can vary, typically ranging from one to ten years or more, depending on the specific terms of the loan agreement. Our expertise and timely financial arrangements has helped many businesses get easy availability of term loans to facilitate their growth and expansion, especially small and medium-sized enterprises (SMEs). Additionally, with our network and platform of digital lending , our business customers are delighted with the easy availability of term loans, making the process more convenient and accessible.',
+      'A term loan refers to a Bank loan for a specific amount that has a specified repayment schedule and a fixed or reducing rate of interest.<br><br>We at R1XChange , help businesses who are looking for business expansion, meet capital expenditure, or other long-term financing needs with these loans. Apart from helping businesses get access to term loans we also help them in understanding and planning the repayment period for term loan which can vary, typically ranging from one to ten years or more, depending on the specific terms of the loan agreement. Our expertise and timely financial arrangements has helped many businesses get easy availability of term loans to facilitate their growth and expansion, especially small and medium-sized enterprises (SMEs). Additionally, with our network and platform of digital lending , our business customers are delighted with the easy availability of term loans, making the process more convenient and accessible.',
     secondImage: './assets/img/services-features/TERM_LOAN_BIZZ_INDIVDUAL.jpg',
     buttonId: 'termloan',
   },
@@ -882,7 +882,7 @@ var careerSection = [
   {
     TitleName: 'Career',
     SubtitleName:
-      'COME, JOIN R1Xchange TO LAUNCH THE SUCCESS STORY OF YOUR CAREER AND PROFESSIONAL GROWTH. Please email your resume at',
+      'COME, JOIN R1XChange TO LAUNCH THE SUCCESS STORY OF YOUR CAREER AND PROFESSIONAL GROWTH. Please email your resume at',
     EmailAddress: 'hr@r1xchange.com',
     PlanOfAction: 'https://zfrmz.com/3DDBhNq05jtGAveCO1Hm',
   },
@@ -994,7 +994,7 @@ var testimonialsData = {
       image: './assets/img/testimonials/testimonials-1.jpg',
       rating: 5,
       quote:
-        'R1Xchange suggested me to apply for business loan through Kotak Bank, as they had the best deal for me. I am really happy with the deal amount and rate that I have got. If ever you want to apply for a business loan, do not rethink, just choose R1Xchange, they will get the best financing solution for you.',
+        'R1XChange suggested me to apply for business loan through Kotak Bank, as they had the best deal for me. I am really happy with the deal amount and rate that I have got. If ever you want to apply for a business loan, do not rethink, just choose R1XChange, they will get the best financing solution for you.',
     },
     {
       name: 'Babu K. Sebastian',
@@ -1002,7 +1002,7 @@ var testimonialsData = {
       image: './assets/img/testimonials/testimonials-2.jpg',
       rating: 5,
       quote:
-        'R1Xchange representative have been very patient and helpful throughout my working capital loan request journey. Their personalized advice , streamlined documentation and user friendly approach has made the journey much more easier and convenient for businesses like me.',
+        'R1XChange representative have been very patient and helpful throughout my working capital loan request journey. Their personalized advice , streamlined documentation and user friendly approach has made the journey much more easier and convenient for businesses like me.',
     },
     {
       name: 'Kunal Gadi',
@@ -1010,7 +1010,7 @@ var testimonialsData = {
       image: 'assets/img/testimonials/testimonials-4.jpg',
       rating: 5,
       quote:
-        'I had a few issues within my CIBIL, some wrong entries were mentioned in my report, I was not able to get a loan for more than 2 years with no luck from any of the several banks I tried with, through a friend I was introduced to the R1Xchange team, they assessed the documents so accurately, and were able to not only diagnose the issues but they were able to provide meaningful solutions in terms of the documents required to prove it was not my fault, through the whole process of applying till sanctions, I trust R1Xchange for all my banking and working capital requirements.',
+        'I had a few issues within my CIBIL, some wrong entries were mentioned in my report, I was not able to get a loan for more than 2 years with no luck from any of the several banks I tried with, through a friend I was introduced to the R1XChange team, they assessed the documents so accurately, and were able to not only diagnose the issues but they were able to provide meaningful solutions in terms of the documents required to prove it was not my fault, through the whole process of applying till sanctions, I trust R1XChange for all my banking and working capital requirements.',
     },
     {
       name: 'Suraj Bhalla',
@@ -1018,7 +1018,7 @@ var testimonialsData = {
       image: 'assets/img/testimonials/testimonials-3.jpg',
       rating: 5,
       quote:
-        'I had an existing OD with my bank, when new opportunities came my way to expand, I realized  my existing banker had very limited exposure to the various new age products in banking and  how  I could structure my debt funding effectively, hence I wanted an effective solution from the best experts, thankfully I placed my trust with the R1Xchange team, they were so sound and helpful that I had more than what I had asked for in terms of options and funding to choose from multiple banks and Lenders.',
+        'I had an existing OD with my bank, when new opportunities came my way to expand, I realized  my existing banker had very limited exposure to the various new age products in banking and  how  I could structure my debt funding effectively, hence I wanted an effective solution from the best experts, thankfully I placed my trust with the R1XChange team, they were so sound and helpful that I had more than what I had asked for in terms of options and funding to choose from multiple banks and Lenders.',
     },
     {
       name: 'Tilak B. Bhujade ',
@@ -1026,7 +1026,7 @@ var testimonialsData = {
       image: 'assets/img/testimonials/testimonials-5.jpg',
       rating: 5,
       quote:
-        'I needed to raise around 30 lacks and by existing bank was not willing to support me on the entire requirement, I approached the R1Xchange team, within 2 days they assessed my documents and were able to precisely share with me the findings, I was surprised when they rolled out the offers from so many lenders many of whose names I had not even heard about, I find them as a one stop solution for all banking needs.',
+        'I needed to raise around 30 lacks and by existing bank was not willing to support me on the entire requirement, I approached the R1XChange team, within 2 days they assessed my documents and were able to precisely share with me the findings, I was surprised when they rolled out the offers from so many lenders many of whose names I had not even heard about, I find them as a one stop solution for all banking needs.',
     },
   ],
 }
