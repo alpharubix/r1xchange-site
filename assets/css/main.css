@@ -192,11 +192,11 @@ section {
 --------------------------------------------------------------*/
 
 .header {
-  height: 100px;
+  height: 150px;
   --background-color: #ffffff;
   color: var(--default-color);
   background-color: var(--background-color);
-  padding: 15px 0;
+  /* padding: 15px 0; */
   transition: all 0.5s;
   z-index: 997;
 }
@@ -2907,6 +2907,7 @@ section {
 @media (min-width: 768px) {
   #menuList a {
     color: #f0f0f0 !important;
+    font-size: 1.5rem
   }
   #menuList a.active {
     color: #1290dd !important;

@@ -224,6 +224,8 @@ logoLink.style.height = '20px'
 var logoImg = document.createElement('img')
 logoImg.src = logoSrc
 logoImg.style.marginLeft = '20px'
+// logoImg.className = 'logo d-flex align-items-center me-auto me-xl-0'
+logoImg.style.height = '130px'
 logoImg.style.filter = 'invert(1)'
 
 logoImg.alt = ''
@@ -232,7 +234,7 @@ logoLink.appendChild(logoImg)
 // Append logo to the container
 document
   .getElementById('headerContainer')
-  .insertBefore(logoLink, document.getElementById('headerContainer').firstChild)
+  .insertBefore(logoImg, document.getElementById('headerContainer').firstChild)
 /*<-- end ======= Header ======= -->*/
 
 /*<-- start ======= About Us ======= -->*/
