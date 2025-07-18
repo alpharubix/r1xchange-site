@@ -23,7 +23,7 @@ var menuItems = [
     MenuIcon: '',
     MoreMenu: '',
     Selected: '',
-    PlanOfAction: '#hero',
+    PlanOfAction: '#home',
     Enable: defaultEnableValue,
     Visible: defaultVisibleValue,
     MoreMenuDet: {},
@@ -311,7 +311,7 @@ setAboutUsContent(aboutUsData)
 
 /*<-- start ======= Stats Section ======= -->*/
 var statsData = {
-  TitleName: 'How are we Unique?',
+  TitleName: 'How Are We Unique?',
   SubtitleName: 'Our Moat',
   Description:
     'R1Xchange is a leading banking finance and technology company that will pre underwrite your financial and tax documents and enable you to get access to the right set of lenders offering you the cheapest and easiest credit solutions to suit all your personal and business requirements, we have a whole host of financial and banking products to suit every single business ranging from supply chain finance, overdraft lines, business term loans, inventory finance and revenue based funding.',
@@ -1183,7 +1183,7 @@ var footerData = {
     usefulLinks: [
       {
         TitleName: 'Home',
-        PlanofAction: '#hero',
+        PlanofAction: '#home',
       },
       {
         TitleName: 'About us',
